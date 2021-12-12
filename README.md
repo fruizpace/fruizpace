@@ -1,4 +1,4 @@
-### Hi there, I'm [Fiorella](https://www.linkedin.com/in/fruizpace/) 👋 👩‍🎤
+### Hi there, I'm [Fiorella](https://www.linkedin.com/in/fruizpace/) 👩‍🎤 🤟 🐕 🐈 💻 🌲 🌅 🌻 🐋 📚 
 Welcome to my page!
 
 ```js 

@@ -1,4 +1,18 @@
-### Hi there 👋
+### Hi there, I'm [Fiorella](https://www.linkedin.com/in/fruizpace/) 👋 👩‍🎤
+Welcome to my page!
+
+```js 
+const fruizpace = {
+  pronouns: "she" | "her",
+  code: [R, Python, Javascript, HTML, CSS],
+  tools: [ggplot2, tidyverse, survival, React(learning), Node(learning)],
+  skills: [Statistics, Programming, Oncology, Biology, Biodiversity],
+  challenge: "To apply data visualization and storytelling to cancer data"
+  }
+```
+- ⚡ Fun fact I’m a Ravenclaw 🦅, but I sometimes wish I was in Slytherin 🐍.
+
+
 
 <!--
 **fruizpace/fruizpace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

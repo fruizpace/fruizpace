@@ -10,7 +10,7 @@ const fruizpace = {
   challenge: "To apply data visualization and storytelling to cancer data"
   }
 ```
-- ⚡ Fun fact I’m a Ravenclaw 🦅, but I sometimes wish I was in Slytherin 🐍.
+- ⚡ Fun fact: I’m a Ravenclaw 🦅, but I sometimes wish I was in Slytherin 🐍.
 
 
 

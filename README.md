@@ -3,7 +3,6 @@ Welcome to my page!
 
 ```js 
 const fruizpace = {
-  pronouns: "she" | "her",
   code: [R, Python, Javascript, HTML, CSS],
   tools: [ggplot2, tidyverse, survival, React(learning), Node(learning)],
   skills: [Statistics, Programming, Oncology, Biology, Biodiversity],

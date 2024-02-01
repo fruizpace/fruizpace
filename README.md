@@ -9,7 +9,6 @@ const fruizpace = {
   challenge: "To apply data visualization and storytelling to cancer data"
   }
 ```
-- ⚡ Fun fact: 70% Ravenclaw 🦅 and 30% Slytherin 🐍.
 
 
 
